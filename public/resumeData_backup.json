@@ -27,6 +27,16 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/cabranesyergeni/",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Yergeni",
+        "className": "fa fa-github"
       }
     ]
   },
@@ -145,10 +155,7 @@
         "url": "https://www.no-protect.com/",
         "technologies": [
           {
-            "id": "1",
-            "js": "ReactJS, Typescript, Hooks, Redux.",
-            "css": "AntD.",
-            "deploy": "AWS S3 using Gatsby."
+            "title": "ReactJS, Typescript, Hooks, Redux, AntD"
           }
         ]
       },
@@ -156,51 +163,31 @@
         "title": "Night Owl Protect CMS",
         "category": "Security Content Management",
         "image": "no-protect-cms.png",
-        "url": "#",
-        "technologies": [
-          {
-            "id": "2",
-            "js": "ReactJS, Typescript, Hooks, Redux, nodeJS, Electron Forge.",
-            "css": "AntD.",
-            "others": "FFmpeg."
-          }
-        ]
+        "url": "#"
       },
       {
         "title": "Crwn Clothing Demo",
         "category": "E-Commerce Sample",
         "image": "crown-study.png",
-        "url": "https://crwn-study.herokuapp.com/",
-        "technologies": [
-          {
-            "id": "3",
-            "js": "ReactJS, Redux-Saga, Stripe (hosted UI).",
-            "css": "Custom CSS.",
-            "deploy": "Heroku."
-          }
-        ]
+        "url": "https://crwn-study.herokuapp.com/"
       },
       {
         "title": "Amazon Clone",
         "category": "Amazon E-Commerce Clone",
         "image": "amazon-clone.png",
-        "url": "https://clone-4a1c8.web.app/",
-        "technologies": [
-          {
-            "id": "4",
-            "js": "ReactJS, ContextAPI. Stripe",
-            "css": "Custom CSS.",
-            "deploy": "Firebase."
-          }
-        ]
+        "url": "https://clone-4a1c8.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Coming Soon!",
-        "user": "By unknown"
+        "text": "TODO",
+        "user": "TODO"
+      },
+      {
+        "text": "TODO",
+        "user": "TODO"
       }
     ]
   }

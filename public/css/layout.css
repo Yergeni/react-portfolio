@@ -311,6 +311,12 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
   	border-radius: 3px;
 }
+.bars li img {
+   position: relative;
+   top: -40px;
+   /* margin-left: -5px; */
+   margin-right: 5px;
+}
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
@@ -447,7 +453,7 @@ ul#nav li.current a { color: #F06000; }
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   /* background: #fff; */
 
    overflow: hidden;
    position: relative;
