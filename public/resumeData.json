@@ -139,6 +139,20 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Netflix Basics",
+        "category": "Media",
+        "image": "basic-netflix-clone.png",
+        "url": "https://netflix-clone-e03a2.web.app/",
+        "technologies": [
+          {
+            "id": "0",
+            "js": "ReactJS, Hooks.",
+            "css": "Material-UI and custom.",
+            "deploy": "Firebase."
+          }
+        ]
+      },
+      {
         "title": "Night Owl Web Portal",
         "category": "Web Portal",
         "image": "no-protect-web-portal.png",

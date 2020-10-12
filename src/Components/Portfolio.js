@@ -26,7 +26,7 @@ class Portfolio extends Component {
 									</div>
 								</a>
 							</div>
-							<div style={{ marginTop: "10px" }}>
+							{/* <div style={{ marginTop: "10px" }}>
 								<small style={{ fontSize: "small", fontWeight: "800" }}>
 									Libraries & Frameworks:
 								</small>
@@ -53,34 +53,34 @@ class Portfolio extends Component {
 													{t.css}
 												</small>
 											</li>
-                      {t.deploy && (
-                        <li>
-                          <small style={{ lineHeight: "14px" }}>
-                            <small
-                              style={{ fontWeight: "800", marginLeft: "-5px" }}
-                            >
-                              DEPLOYMENT:{" "}
-                            </small>
-                            {t.deploy}
-                          </small>
-                        </li>
-                      )}
-                      {t.others && (
-                        <li>
-                          <small style={{ lineHeight: "14px" }}>
-                            <small
-                              style={{ fontWeight: "800", marginLeft: "-5px" }}
-                            >
-                              UTILS:{" "}
-                            </small>
-                            {t.others}
-                          </small>
-                        </li>
-                      )}
+											{t.deploy && (
+												<li>
+													<small style={{ lineHeight: "14px" }}>
+														<small
+															style={{ fontWeight: "800", marginLeft: "-5px" }}
+														>
+															DEPLOYMENT:{" "}
+														</small>
+														{t.deploy}
+													</small>
+												</li>
+											)}
+											{t.others && (
+												<li>
+													<small style={{ lineHeight: "14px" }}>
+														<small
+															style={{ fontWeight: "800", marginLeft: "-5px" }}
+														>
+															UTILS:{" "}
+														</small>
+														{t.others}
+													</small>
+												</li>
+											)}
 										</div>
 									))}
 								</div>
-							</div>
+							</div> */}
 						</div>
 					</>
 				);
