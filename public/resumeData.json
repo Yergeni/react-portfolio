@@ -3,26 +3,21 @@
     "name": "Yergeni Cabranes",
     "occupation": "Front-End Developer",
     "description": "I work at Night Owl Security Products, LLC",
-    "image": "yero1.jpg",
+    "image": "yero.jpg",
     "bio": "I am a passionate software developer with strong knowledge in all stages of the development cycle for dynamic projects. Experienced in Object-Oriented Programming. I have more than 6 years working on different projects using several technologies. I am well knowledge in database design, code review, implementing data structures, programming patterns, analysis of algorithms, UI/UX,  and project documentation.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "yergenis@gmail.com",
     "phone": "+1 786 520 0036",
     "address": {
-      "street": "3043 44TH SW",
+      "street": "",
       "country": "USA",
       "city": "Naples",
       "state": "FL",
-      "zip": "34116"
+      "zip": ""
     },
     "website": "",
     "resumedownload": "https://drive.google.com/file/d/1grVGY_6-NLDApys1A1MlLkViqcuIdLGn/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/yergenis.perez",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/cabranesyergeni/",
@@ -168,7 +163,7 @@
       },
       {
         "title": "Night Owl Protect CMS",
-        "category": "Security Content Management",
+        "category": "Security",
         "image": "no-protect-cms.png",
         "url": "#",
         "technologies": [
@@ -203,6 +198,20 @@
           {
             "id": "4",
             "js": "ReactJS, ContextAPI. Stripe",
+            "css": "Custom CSS.",
+            "deploy": "Firebase."
+          }
+        ]
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Chat",
+        "image": "basic-discrod-clone.png",
+        "url": "https://discord-clone-c3c10.web.app/",
+        "technologies": [
+          {
+            "id": "5",
+            "js": "ReactJS, Redux-Toolkit",
             "css": "Custom CSS.",
             "deploy": "Firebase."
           }
