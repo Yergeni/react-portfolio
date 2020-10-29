@@ -111,7 +111,7 @@
       },
       {
         "logo": "./images/skills/css-logo.png",
-        "name": "CSS",
+        "name": "CSS3",
         "level": "50%"
       },
       {
@@ -134,13 +134,27 @@
   "portfolio": {
     "projects": [
       {
+        "title": "COVI-19 Tracker",
+        "category": "Statistics",
+        "image": "covi-19-tracker.png",
+        "url": "https://covi19-tracker-a9817.web.app/",
+        "technologies": [
+          {
+            "id": "0",
+            "js": "ReactJS, LeaFlet, ChartJS.",
+            "css": "Material-UI and custom.",
+            "deploy": "Firebase."
+          }
+        ]
+      },
+      {
         "title": "Netflix Basics",
         "category": "Media",
         "image": "basic-netflix-clone.png",
         "url": "https://netflix-clone-e03a2.web.app/",
         "technologies": [
           {
-            "id": "0",
+            "id": "1",
             "js": "ReactJS, Hooks.",
             "css": "Material-UI and custom.",
             "deploy": "Firebase."
@@ -154,7 +168,7 @@
         "url": "https://www.no-protect.com/",
         "technologies": [
           {
-            "id": "1",
+            "id": "2",
             "js": "ReactJS, Typescript, Hooks, Redux.",
             "css": "AntD.",
             "deploy": "AWS S3 using Gatsby."
@@ -168,7 +182,7 @@
         "url": "#",
         "technologies": [
           {
-            "id": "2",
+            "id": "3",
             "js": "ReactJS, Typescript, Hooks, Redux, nodeJS, Electron Forge.",
             "css": "AntD.",
             "others": "FFmpeg."
@@ -182,7 +196,7 @@
         "url": "https://crwn-study.herokuapp.com/",
         "technologies": [
           {
-            "id": "3",
+            "id": "4",
             "js": "ReactJS, Redux-Saga, Stripe (hosted UI).",
             "css": "Custom CSS.",
             "deploy": "Heroku."
@@ -196,7 +210,7 @@
         "url": "https://clone-4a1c8.web.app/",
         "technologies": [
           {
-            "id": "4",
+            "id": "5",
             "js": "ReactJS, ContextAPI. Stripe",
             "css": "Custom CSS.",
             "deploy": "Firebase."
@@ -210,7 +224,7 @@
         "url": "https://discord-clone-c3c10.web.app/",
         "technologies": [
           {
-            "id": "5",
+            "id": "6",
             "js": "ReactJS, Redux-Toolkit",
             "css": "Custom CSS.",
             "deploy": "Firebase."
