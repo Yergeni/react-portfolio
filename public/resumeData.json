@@ -148,7 +148,7 @@
         ]
       },
       {
-        "title": "Netflix Basics",
+        "title": "Netflix Basic Clone",
         "category": "Media",
         "image": "basic-netflix-clone.png",
         "url": "https://netflix-clone-e03a2.web.app/",
@@ -165,7 +165,7 @@
         "title": "Night Owl Web Portal",
         "category": "Web Portal",
         "image": "no-protect-web-portal.png",
-        "url": "https://www.no-protect.com/",
+        "url": "https://web-protect-staging.nowlsp.com/landing/",
         "technologies": [
           {
             "id": "2",
@@ -204,8 +204,8 @@
         ]
       },
       {
-        "title": "Amazon Clone",
-        "category": "Amazon E-Commerce Clone",
+        "title": "Amazon Basic Clone",
+        "category": "E-Commerce Sample",
         "image": "amazon-clone.png",
         "url": "https://clone-4a1c8.web.app/",
         "technologies": [
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "title": "Discord Clone",
+        "title": "Discord Basic Clone",
         "category": "Chat",
         "image": "basic-discrod-clone.png",
         "url": "https://discord-clone-c3c10.web.app/",
