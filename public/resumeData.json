@@ -115,6 +115,11 @@
         "level": "50%"
       },
       {
+        "logo": "./images/skills/antd-logo.png",
+        "name": "ANT-DESIGN",
+        "level": "70%"
+      },
+      {
         "logo": "./images/skills/electron-logo.png",
         "name": "Electron",
         "level": "60%"
